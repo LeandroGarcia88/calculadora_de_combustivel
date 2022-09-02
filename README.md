@@ -1,1 +1,1 @@
-Este é um projeto quem tem como finalidade praticar programação utilizando JavaScript.
+Este é um projeto que teve como finalidade praticar programação utilizando JavaScript.
